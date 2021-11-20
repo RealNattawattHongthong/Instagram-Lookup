@@ -4,4 +4,4 @@ Work only public profile
 ```pip install instaloader```<br>
 # How to run <br>
 ```python main.py```
-# Make By Nattawatt Hongthong
+# Make By Oreo Young Man (Nattawatt)
