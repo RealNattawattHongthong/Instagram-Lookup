@@ -2,12 +2,13 @@
 import instaloader
 from PIL import Image, ImageTk
 import os
+import time
 
 
 #create instance
 loader = instaloader.Instaloader()
 print("Make By Oreo Young Man")
-sleep(2)
+time.sleep(2)
 #get username (publiic)
 user = input('Enter username on public instagram account: ')
 #download proflie
